@@ -1,0 +1,19 @@
+
+
+h1 {
+    background-color: aqua;
+}
+
+.fa-brands {
+    padding: 26px;
+    font-size: 100px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.fa-github-squre {
+    background-color: blue;
+    color: white;
+}
