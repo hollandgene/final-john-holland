@@ -25,3 +25,35 @@ h1 {
     text-align: center;
     text-decoration: none;
 }
+
+li {
+    /* background-color: aqua; */
+    float: left;
+    /* text-decoration: none; */
+    /* height: 40px;
+    width: 80px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    padding-top: 15px; */
+}
+
+ul {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+    border: solid black;
+    margin: 5px;
+    background-color: pink;
+}
+
+header {
+    background-color: darksalmon;
+}
